@@ -8,3 +8,4 @@ Results
 
 Summary
 
+One of the major disadvantages is that the program is case sensitive; for example, you would have to search by ar for Arkansas instead of AR otherwise the code will throw an error. 
