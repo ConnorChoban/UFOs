@@ -2,9 +2,12 @@
 
 #Overview of Project
 
-The purpose of this analysis is to compile data surrounding UFO sightings and display it in a webpage that's easy to use and that will allow us to filter by different search criteria. This way the UFO data is readily accessible for anyone who wishes to use it to perform their own data analysis
+The purpose of this analysis is to compile data surrounding UFO sightings and display it in a webpage that's easy to use and that will allow us to filter by different search criteria. This way the UFO data is readily accessible for anyone who wishes to use it to perform their own data analysis.
 
 Results
+
+<img width="1223" alt="Screen Shot 2022-05-18 at 1 32 44 AM" src="https://user-images.githubusercontent.com/99847786/168964300-3b9d7d26-11c3-46ff-a37a-3d08de5119fb.png">
+
 
 Summary
 
